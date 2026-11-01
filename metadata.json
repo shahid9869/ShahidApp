@@ -1,0 +1,6 @@
+{
+  "name": "Karobar Ads",
+  "description": "Business & Services Classifieds Ads platform with powerful Admin Control Panel for moderating, approving, and managing ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
